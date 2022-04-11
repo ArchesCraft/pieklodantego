@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+#wstep{
+    width: 970px;
+    height: 90px;
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#obramowaniestrony{
+    width: 1000px;
+    height: auto;
+    background-color: rgb(249, 133, 133);
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
